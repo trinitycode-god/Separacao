@@ -8,7 +8,7 @@
 // Instruções completas em README.md
 // =====================================================================
 const CONFIG = {
-  APPS_SCRIPT_URL: "https://script.google.com/macros/s/AKfycbwtUhELCeaX_eCfG8NUV7GFa23NLtJVveFSs6mC1Soh7IJdxZZf-n3brdMFxseQxXQc/exec"
+  APPS_SCRIPT_URL: "https://script.google.com/macros/s/AKfycbyA_48DGk5JPmMTGMbZyTxwl0VcOHucTvm9gxrlqo8yl5bjowD7L0on25_fQ9qr8dfh/exec"
 };
 
 // =====================================================================
